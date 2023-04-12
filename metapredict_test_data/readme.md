@@ -12,3 +12,6 @@ Data file with AF*.out is only contain amnio acid name, AF2 PLDDT and second str
 
 Data file with MT*.out in contain Amnio acid name, AF2 PlDDT, MT_plddt, second structure , MSE and MAE. 
 
+AF-O74718-F1-model_v4.out 
+
+This is the sup35 protien that mentioned in metapredict paper. https://doi.org/10.1016/j.bpj.2021.08.039
